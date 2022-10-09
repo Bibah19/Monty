@@ -1,1 +1,1 @@
-this is an alx project titlied monty
+this is an alx project monty
